@@ -1,0 +1,14 @@
+html, body{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: url("image/fond-ecran.jpg") no-repeat fixed center;
+	background-size: cover;
+}
+
+#warhammer{
+	margin: auto;
+	display: table;
+}
